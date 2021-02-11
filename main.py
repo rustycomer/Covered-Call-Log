@@ -10,7 +10,7 @@ def get_stock_purchase_info():
     return [symbol, int(shares), float(purchase_price)]
 
 
-print(get_stock_purchase_info())
+
 
 
 # Get updated current price of stock purchased
